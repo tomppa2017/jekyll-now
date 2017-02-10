@@ -11,7 +11,7 @@ A new attemept at getting Leaflet to work.
 
 <script>
     // create the map object and set the cooridnates of the initial view: 
-    var map = L.map('map').setView([51.4833, -3.1833], 10);
+    var map = L.map('mapid').setView([51.4833, -3.1833], 10);
 
     // create the tile layer with correct attribution: 
     L.tileLayer('http://{s}.tiles.mapbox.com/v3/jamesg87.goac2bf1/{z}/{x}/{y}.png', {
