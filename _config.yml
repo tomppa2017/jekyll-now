@@ -29,6 +29,9 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
+
+include: ["_includes"]
+
 exclude:
   - Gemfile
   - Gemfile.lock
