@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Tom is takin over this blog.
+title: Tom is taking over this blog.
+published: true
 ---
 
 This is stuff that Tom has written. Tom!
