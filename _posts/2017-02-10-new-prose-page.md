@@ -5,7 +5,7 @@ custom_js: leaflet
 ---
 ## A New Post - Testing Leaflet
 
-A new attemept at getting Leaflet to work.
+A new attempt at getting Leaflet to work.
 
 <div id="mapid"></div>
 
