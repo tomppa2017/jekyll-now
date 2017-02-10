@@ -3,7 +3,7 @@ published: true
 custom_css: leaflet
 custom_js: leaflet
 ---
-## A New Post - Testing Leaflet 21.09
+## A New Post - Testing Leaflet 21.11
 
 A new attempt at getting Leaflet to work.
 
